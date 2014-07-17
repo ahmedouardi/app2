@@ -1,4 +1,4 @@
 app2
 ====
 
-test app 2
+salut tout le monde
